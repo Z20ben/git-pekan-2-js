@@ -1,0 +1,14 @@
+{
+  "name": "git-pekan-2",
+  "version": "1.0.0",
+  "description": "ini adalah tugas pekan 2 js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fredika benz",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
